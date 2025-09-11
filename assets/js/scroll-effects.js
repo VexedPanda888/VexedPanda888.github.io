@@ -16,9 +16,7 @@ window.addEventListener("scroll", function () {
   }
 
   const goBoardContainer = document.getElementById("goBoardContainer");
-  if (goBoardContainer) {
-    goBoardContainer.style.opacity = opacity;
-  }
+  goBoardContainer.style.opacity = opacity;
 });
 
 // Smooth scrolling for any anchor links
@@ -28,12 +26,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Optional: Add scroll indicator click handler
   const scrollIndicator = document.querySelector(".scroll-indicator");
-  if (scrollIndicator) {
-    scrollIndicator.addEventListener("click", function () {
-      window.scrollTo({
-        top: window.innerHeight,
-        behavior: "smooth",
-      });
+  scrollIndicator.addEventListener("click", function () {
+    window.scrollTo({
+      top: window.innerHeight,
+      behavior: "smooth",
     });
-  }
+  });
 });
