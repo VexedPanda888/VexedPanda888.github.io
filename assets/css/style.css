@@ -27,7 +27,7 @@ body {
   width: 100%;
   height: 100vh;
   z-index: -1;
-  transition: opacity 0.5s ease-out;
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
 }
 
 .go-board {
@@ -73,14 +73,14 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   background-image: repeating-linear-gradient(
     90deg,
     transparent,
-    transparent calc(100% / 19 - 1px),
-    #654321 calc(100% / 19 - 1px),
-    #654321 calc(100% / 19)
+    transparent calc(100% / 18 - 1px),
+    #654321 calc(100% / 18 - 1px),
+    #654321 calc(100% / 18)
   );
 }
 
