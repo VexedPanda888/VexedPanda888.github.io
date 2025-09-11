@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: ""
 description: "Ancient strategy meets modern wisdom"
----
+--- -->
 
 <div class="hero">
     <div class="go-board-container" id="goBoardContainer">

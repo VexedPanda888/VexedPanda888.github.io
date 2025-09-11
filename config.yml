@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: "The Art of Go"
 description: "Ancient strategy meets modern wisdom"
 baseurl: ""
