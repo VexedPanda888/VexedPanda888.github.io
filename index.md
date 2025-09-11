@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Home"
 description: "Ancient strategy meets modern wisdom"
 ---
