@@ -1,9 +1,3 @@
-<!-- ---
-layout: default
-title: ""
-description: "Ancient strategy meets modern wisdom"
---- -->
-
 <div class="hero">
     <div class="go-board-container" id="goBoardContainer">
         <div class="go-board">
@@ -23,8 +17,8 @@ description: "Ancient strategy meets modern wisdom"
     
     <div class="hero-content">
         <h1>Connor Hay</h1>
-        <p>Strategic Thinking Meets Technical Innovation</p>
-        <p class="subtitle">Full Stack Engineer • Data Scientist • Team Leader</p>
+        <p>Full Stack Engineer & Data Scientist</p>
+        <p class="subtitle">University of Virginia • Vienna, VA</p>
         <div class="contact-info">
             <a href="mailto:cwhay888@gmail.com">cwhay888@gmail.com</a>
             <a href="https://linkedin.com/in/connor-w-hay/" target="_blank">LinkedIn</a>
@@ -40,13 +34,13 @@ description: "Ancient strategy meets modern wisdom"
 <div class="content">
     <div class="content-inner">
         <div class="content-section">
-            <h2>The Strategic Engineer</h2>
-            <p>Like the ancient game of Go, software engineering requires both tactical precision and strategic vision. Every line of code is a stone placed with intention, every architecture decision a move that shapes the entire game. I bring this strategic mindset to full-stack development, machine learning, and team leadership.</p>
-            <p>Currently pursuing dual degrees in Psychology and Computational Cognitive Sciences at the University of Virginia, I combine deep technical skills with human-centered thinking to build solutions that don't just work—they resonate.</p>
+            <h2>About</h2>
+            <p>I'm a full stack engineer and data scientist currently completing dual degrees in Psychology and Computational Cognitive Sciences at the University of Virginia. I build web applications, machine learning models, and data visualization tools.</p>
+            <p>I have experience working with startups, research teams, and leading technical projects. My background combines software development with data science and human-centered design principles.</p>
         </div>
         
         <div class="content-section">
-            <h3>Technical Arsenal</h3>
+            <h3>Technical Skills</h3>
             <div class="skills-grid">
                 <div class="skill-category">
                     <h4>Languages & Web Development</h4>
@@ -60,7 +54,7 @@ description: "Ancient strategy meets modern wisdom"
         </div>
 
         <div class="content-section">
-            <h3>Current Endeavors</h3>
+            <h3>Current Work</h3>
 
             <div class="experience-item">
                 <div class="item-header">
@@ -92,7 +86,7 @@ description: "Ancient strategy meets modern wisdom"
         </div>
 
         <div class="content-section">
-            <h3>Strategic Victories</h3>
+            <h3>Projects & Experience</h3>
 
             <div class="project-item">
                 <div class="item-header">
@@ -130,14 +124,14 @@ description: "Ancient strategy meets modern wisdom"
                     <div class="item-date">January 2023 - May 2024</div>
                 </div>
                 <ul class="achievements">
-                    <li>Applied cognitive psychology principles to design training programs for 16 collegiate athletes</li>
-                    <li>Led team to 8th Division Championship and qualified 5 athletes for USAC National Championship</li>
+                    <li>Designed cognitive psychology-informed training programs for 16 collegiate athletes</li>
+                    <li>Team won 8th Division Championship and sent 5 athletes to USAC National Championship</li>
                 </ul>
             </div>
         </div>
 
         <div class="content-section">
-            <h3>Foundation & Growth</h3>
+            <h3>Education</h3>
 
             <div class="education-item">
                 <div class="item-header">
@@ -169,18 +163,18 @@ description: "Ancient strategy meets modern wisdom"
                     <div class="item-date">December 2021 - March 2022</div>
                 </div>
                 <ul class="achievements">
-                    <li>Developed React web applications for start-up companies in fast-paced environment</li>
-                    <li>Collaborated on front-end implementations including a website-building platform and AARP's website</li>
+                    <li>Developed React web applications for startup companies</li>
+                    <li>Built front-end features for website-building platform and AARP's website</li>
                 </ul>
             </div>
         </div>
 
         <div class="cta-section">
-            <h3>Ready for the Next Game?</h3>
-            <p>Every great strategy begins with a single, well-placed stone. Let's discuss how my unique blend of technical expertise, strategic thinking, and leadership experience can drive your next project forward.</p>
+            <h3>Let's Connect</h3>
+            <p>I'm interested in full stack engineering and data science opportunities. Feel free to reach out to discuss potential projects or positions.</p>
             <div class="cta-buttons">
-                <a href="mailto:cwhay888@gmail.com" class="cta-button">Get In Touch</a>
-                <a href="https://linkedin.com/in/connor-w-hay/" class="cta-button secondary" target="_blank">View Full Profile</a>
+                <a href="mailto:cwhay888@gmail.com" class="cta-button">Contact Me</a>
+                <a href="https://linkedin.com/in/connor-w-hay/" class="cta-button secondary" target="_blank">LinkedIn Profile</a>
             </div>
         </div>
     </div>
