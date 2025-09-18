@@ -1,16 +1,9 @@
 <div class="hero">
     <div class="go-board-container" id="goBoardContainer">
-        <div class="go-board">
-            <div class="board-grid">
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
-                <div class="star-point"></div>
+        <div class="go-board-background">
+            <div class="stone-grid">
+                <img src="./assets/images/stones/style_a/128x128/black_00.png" class="go-stone black-stone" style="grid-column: 4; grid-row: 4;" alt="Black stone">
+                <img src="./assets//images/stones/style_a/128x128/white_00.png" class="go-stone white-stone" style="grid-column: 16; grid-row: 4;" alt="White stone">
             </div>
         </div>
     </div>
